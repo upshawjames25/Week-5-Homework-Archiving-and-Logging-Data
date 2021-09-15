@@ -260,7 +260,7 @@ For the bonus, **write** the `journactl` commands, for each use case below.
 
 Refer to the following solution files for the homework worksheets: 
 
-* [Week 5 Homework Solution: Archiving and Logging Data](/Week 5 Homework Submission File: Archiving and Logging Data.md)  
+  - [Week 5 Homework Solution: Archiving and Logging Data](https://github.com/karma-786/KVP-Week-5-Homework-Archiving-and-Logging-Data/blob/main/Week%205%20Homework%20Submission%20File:%20Archiving%20and%20Logging%20Data.md)  
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
