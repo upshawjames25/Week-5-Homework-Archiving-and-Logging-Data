@@ -256,11 +256,11 @@ For the bonus, **write** the `journactl` commands, for each use case below.
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
-## Week  Homework Solution: 
+## Week 5 Homework Solution: Archiving and Logging Data
 
 Refer to the following solution files for the homework worksheets: 
 
-* []()  
+* [Week 5 Homework Solution: Archiving and Logging Data](/Week 5 Homework Submission File: Archiving and Logging Data.md)  
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
