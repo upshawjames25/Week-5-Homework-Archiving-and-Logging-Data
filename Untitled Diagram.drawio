@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T16:40:53.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" version="16.0.0" etag="fpMQNON_dVwm0053aRQo" type="github"><diagram id="i_klNGs3XEBbZOQNovx1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-12T17:41:52.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="CrA6QyDJTYMZvdODsr1n" version="16.2.6" type="github">
+  <diagram id="i_klNGs3XEBbZOQNovx1" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="38" y="380" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ORFdA6VZN676E5Y5aXP2-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="62.40000000000009" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-8" value="Host VM/&lt;br&gt;192.168.1.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2.4" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ORFdA6VZN676E5Y5aXP2-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="63" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-9" value="VM Monitor/&lt;br&gt;192.168.1.100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="164" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.548;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ORFdA6VZN676E5Y5aXP2-10" target="ORFdA6VZN676E5Y5aXP2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-10" value="Victim VM/&lt;br&gt;192.168.105" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5.6" y="284" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-15" value="Attacking VM/&lt;br&gt;192.168.1.90" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="426" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-16" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="238" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-17" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ORFdA6VZN676E5Y5aXP2-18" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="38" y="118" width="50" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
